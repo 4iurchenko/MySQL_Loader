@@ -1,0 +1,4 @@
+user: newuser
+password: XXXXX
+host: server_name_is_hided_LOREM_IPSUM.rds.amazonaws.com
+database: AgencyData
